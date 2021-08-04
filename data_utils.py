@@ -2,7 +2,7 @@ import argparse
 import os
 from os import listdir
 from os.path import join
-
+ 
 from PIL import Image
 from torch.utils.data.dataset import Dataset
 from torchvision.transforms import Compose, CenterCrop, Scale
