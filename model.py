@@ -1,5 +1,5 @@
 import torch.nn as nn
-import torch
+import torch 
 class Conv_ReLU_Block(nn.Module):
     def __init__(self, s):
         super(Conv_ReLU_Block, self).__init__()
