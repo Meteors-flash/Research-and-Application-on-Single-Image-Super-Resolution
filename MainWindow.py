@@ -26,7 +26,7 @@ from data_utils import is_image_file
 from model import Net
 from espcn import BaseNet
 from fsrcnn import FSRCNN
-
+ 
 filename = 'screenshot0.jpg' 
 path = './images/' 
 flag = int(0)
