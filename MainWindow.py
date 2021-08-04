@@ -416,7 +416,7 @@ def img_restore_fsrcnn(img_label2, t2):
     ssim = cal_ssim(datapath+sr_name, target_path)
     string += '; SSIM: '+str(ssim)
     t2.insert(INSERT,string)
-    
+   
     mainloop()
     return
 
