@@ -1,6 +1,6 @@
 from math import log10
 import math
-import torch
+import torch 
 import os
 import cv2
 from torchnet.meter import meter
