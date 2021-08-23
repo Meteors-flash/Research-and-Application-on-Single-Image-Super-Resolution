@@ -37,7 +37,7 @@ python train.py
 ```
 the results will be saved in folder: `/results`, the trained model is stored in folder: `/epochs`
 
-###Test
+### Test
 then you can use the trained model to test an image or a video by:
 ```
 python test_image.py
